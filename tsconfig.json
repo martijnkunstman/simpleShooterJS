@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "allowJs": true,
+    "checkJs": false,
+    "outDir": "./prod",
+    "sourceMap": false,
+    "strict": true,
+    "alwaysStrict": true,
+    "moduleResolution": "node"
+  },
+  "include": [
+    "src"
+  ]
+}

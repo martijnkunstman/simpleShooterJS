@@ -1,0 +1,23 @@
+{
+  "name": "simpleshooterjs",
+  "version": "1.0.0",
+  "description": "Simple Shooter Game using JavaScript and OOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martijnkunstman/simpleShooterJS.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martijnkunstman/simpleShooterJS/issues"
+  },
+  "homepage": "https://github.com/martijnkunstman/simpleShooterJS#readme",
+  "devDependencies": {
+    "@types/node": "^20.6.3",
+    "typescript": "^5.2.2"
+  }
+}
